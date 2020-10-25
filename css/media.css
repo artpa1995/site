@@ -1,0 +1,284 @@
+@media  screen and (max-width: 1540px) {
+	.knopka-1-1{
+		position: absolute;
+		right: 50px;
+		top:20px;
+	}
+	.knopka-1-2{
+		position: absolute;
+		right: 500px;
+		top:20px;
+	}
+	.bac-1-text-nkar{
+		position: absolute;
+		right: -350px;
+		top: -20px;
+	}
+	
+}
+
+@media  screen and (max-width: 1529px) {
+	.text-l{
+		font-size: 20px;
+	}
+}
+@media  screen and (max-width: 1529px) {
+	.input5{
+		margin-right: 70px;
+	}
+}
+@media  screen and (max-width: 1529px) {
+	.simvol{
+		position: absolute;
+		right: 650px;
+		top: 460px;
+	}
+}
+
+@media  screen and (max-width: 1500px) {
+	.simvol{
+		position: absolute;
+		right: 640px;
+	}
+	.knopk1{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		color: yellow;
+	}
+}
+@media  screen and (max-width: 1389px) {
+.knopk1{
+		position: absolute;
+		left: 620px;
+		top: -32px;
+		color: yellow;
+	}
+	.knopka-1-1{
+		position: absolute;
+		right: 60px;
+		top:20px;
+	}
+	.knopka-1-2{
+		position: absolute;
+		right: 450px;
+		top:20px;
+	}
+	.simvol{
+		position: absolute;
+		right: 600px;
+	}
+
+}
+@media  screen and (max-width: 1340px){
+	.simvol{
+		position: absolute;
+		right: 580px;
+	}
+}
+@media  screen and (max-width: 1327px){
+	.knopk2{
+		position: absolute;
+		left: 597px;
+		top: -32px;
+	}
+	
+
+}
+@media  screen and (max-width: 1300px){
+.bac-1-text-nkar{
+		position: absolute;
+		right: -280px;
+		top: -20px;
+	}
+}
+@media  screen and (max-width: 1278px){
+.knopka-1-1{
+		position: absolute;
+		right: 0px;
+		top:20px;
+	}
+	.knopka-1-2{
+		position: absolute;
+		right: 370px;
+		top:20px;
+	}
+	.simvol{
+		position: absolute;
+		right: 500px;
+	}
+}
+@media  screen and (max-width: 1250px){
+	.knopk3{
+		position: absolute;
+		left: 500px;
+		top: -32px;
+	}
+	.knopk1{
+		position: absolute;
+		left: 550px;
+		
+	}
+	.knopk2{
+		position: absolute;
+		left: 525px;
+
+	}
+	.knopka{
+		position: absolute;
+		right: 100px;
+	}
+}
+@media  screen and (max-width: 1225px){
+
+.knopka-1-1{
+		position: absolute;
+		right: 40px;
+		top:20px;
+	}
+	.knopka-1-2{
+		position: absolute;
+		right: 370px;
+		top:20px;
+	}
+	.simvol{
+		position: absolute;
+		right: 510px;
+	}
+}
+@media  screen and (max-width: 1178px){
+	.simvol{
+		position: absolute;
+		right: 500px;
+	}
+}
+@media  screen and (max-width: 1175px){
+	.knopka6{
+		position: absolute;
+		left: 330px;
+		top:-31px;
+	}
+	.knopk3{
+		position: absolute;
+		left: 375px;
+		top: -32px;
+	}
+	.knopk1{
+		position: absolute;
+		left: 375px;
+		
+	}
+	.knopk2{
+		position: absolute;
+		left: 375px;
+
+	}
+}
+@media  screen and (max-width: 1145px){
+.simvol{
+		position: absolute;
+		right: 450px;
+	}
+	.knopka-1-1{
+		position: absolute;
+		right: 30px;
+		top:20px;
+	}
+	.knopka-1-2{
+		position: absolute;
+		right: 300px;
+		top:20px;
+	}
+}
+@media  screen and (max-width: 1090px){
+	.simvol{
+		position: absolute;
+		right: 430px;
+	}
+	.bac-1-text-nkar{
+		position: absolute;
+		right: -210px;
+		top: -20px;
+	}
+}
+@media  screen and (max-width: 1065px){
+
+.knopk3{
+		position: absolute;
+		left: 350px;
+		
+	}
+	.knopk1{
+		position: absolute;
+		left: 350px;
+		
+	}
+	.knopk2{
+		position: absolute;
+		left: 350px;
+
+	}
+}
+@media  screen and (max-width: 1040px){
+	.simvol{
+		position: absolute;
+		right: 417px;
+	}
+}
+@media  screen and (max-width: 1027px){
+	.knopka1{
+		position: absolute;
+		right: 150px;
+	}
+	.knopka2{
+		position: absolute;
+		right: 150px;
+	}
+	.knopka3{
+		position: absolute;
+		right: 150px;
+	}
+	.knopka4{
+		position: absolute;
+		right: 150px;
+	}
+	.knopka5{
+		position: absolute;
+		right: 150px;
+	}
+	.vol{
+		position: absolute;
+		left: 250px;
+	}
+	.knopk3{
+		position: absolute;
+		left: 270px;
+	}
+	.knopk2{
+		position: absolute;
+		left: 300px;
+	}
+	.knopk1{
+		position: absolute;
+		left: 320px;
+	}
+	.bac-1-text-nkar{
+		position: absolute;
+		right: -170px;
+		top: -20px;
+	}
+	.knopka-1-1{
+		position: absolute;
+		right: 50px;
+		top:20px;
+		}
+		.knopka-1-2{
+		position: absolute;
+		right: 250px;
+		top:20px;
+	}
+	.simvol{
+		position: absolute;
+		right: 400px;
+	}
+}
